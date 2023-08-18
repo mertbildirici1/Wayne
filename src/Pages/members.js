@@ -1,7 +1,23 @@
+// Members.js
 import React from "react";
+import Student from "../constants/Students";
+import studentsData from "../constants/data/studentsData.json"
+import "../constants/Members.css"
 
 export function Members() {
-    return (
-        <p>MEMBERS OF WAYNE MANOR</p>
-    )
+    const sortedStudents = [...studentsData].sort((a, b) =>
+    a.firstName.localeCompare(b.firstName)
+  );
+  return (
+    <div>
+      <h2>MEMBERS OF WAYNE MANOR</h2>
+      <div className="students-container">
+        {sortedStudents.map((student) => (
+          <Student key={student.id} student={student} />
+        ))}
+      </div>
+    </div>
+  );
 }
+
+export default Members;

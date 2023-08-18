@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "firstName": "Caleb",
+    "lastName": "Cavazos",
+    "class": "Freshman",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Mert",
+    "lastName": "Bildirici",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Daniel",
+    "lastName": "Duarte",
+    "class": "Sophomore",
+    "major": "Mechanical Engineering",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Michael",
+    "lastName": "Zhou",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Eric",
+    "lastName": "Belcea",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Andrew",
+    "lastName": "McKnight",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "Harssh",
+    "lastName": "Goleccha",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 8,
+    "firstName": "Cole",
+    "lastName": "Michaud",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  }
+]
