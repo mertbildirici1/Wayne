@@ -2,7 +2,7 @@ import React from "react";
 import "../constants/Members.css";
 
 function Student({ student }) {
-  const { firstName, lastName, class: studentClass, major, image } = student;
+  const { firstName, lastName, class: studentClass, major, image, hometown } = student;
 
   return (
     <div className="student-card">
@@ -10,13 +10,15 @@ function Student({ student }) {
         src={image}
         alt={`${firstName} ${lastName}`}
         style={{
-          maxWidth: "100px",
-          height: "auto",
+            width: "130px",
+            height: "200px",
+            objectFit: "cover"
         }}
       />
       <p>{`${firstName} ${lastName}`}</p>
       <p>Class: {studentClass}</p>
       <p>Major: {major}</p>
+      <p>Hometown: {hometown}</p>
     </div>
   );
 }

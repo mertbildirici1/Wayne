@@ -5,7 +5,8 @@
     "lastName": "Cavazos",
     "class": "Freshman",
     "major": "Computer Science",
-    "image": "headshot.jpg"
+    "image": "headshot.jpg",
+    "hometown": "Philadephia"
   },
   {
     "id": 2,
@@ -141,7 +142,7 @@
     "lastName": "Rheude",
     "class": "Sophomore",
     "major": "Computer Science",
-    "image": "headshot.jpg"
+    "image": "ethan.jpeg"
   },
   {
     "id": 19,
@@ -172,7 +173,7 @@
     "firstName": "Alp",
     "lastName": "Altinbasak",
     "class": "Junior",
-    "major": "Mechanical Engineering + Computer Science",
+    "major": "Mechanical Engineering",
     "image": "headshot.jpg"
   },
   {

@@ -10,7 +10,7 @@ export function Members() {
   );
   return (
     <div>
-      <h2>MEMBERS OF WAYNE MANOR</h2> 
+      <h2 style={{textAlign: "center"}}>MEMBERS OF WAYNE MANOR</h2> 
       <div className="students-container">
         {sortedStudents.map((student) => (
           <Student key={student.id} student={student} />
