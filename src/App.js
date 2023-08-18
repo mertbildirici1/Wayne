@@ -5,6 +5,7 @@ import { Members } from './Pages/members';
 import Navigation from './NavBar/navigation'; // Update the import path
 import EmailForm from './Pages/rushform';
 import { Photos } from './Pages/photos';
+//testing branch access
 
 function App() {
   return (
