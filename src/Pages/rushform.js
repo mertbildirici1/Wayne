@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
+import "../RushForm.css";
 
 function EmailForm() {
-  const [email, setEmail] = useState('');
+  const [email, setEmail] = useState("");
 
   const handleEmailChange = (event) => {
     setEmail(event.target.value);
@@ -13,19 +14,22 @@ function EmailForm() {
   };
 
   return (
-    <div>
-      <h2>Enter Your Email</h2>
-      <form onSubmit={handleSubmit}>
-        <label>
+    <div className="email-form-container">
+      <h2 className="email-form-heading">Enter Your Email to Rush</h2>
+      <form className="email-form" onSubmit={handleSubmit}>
+        <label className="email-label">
           Email:
           <input
             type="email"
             value={email}
             onChange={handleEmailChange}
+            className="email-input"
             required
           />
         </label>
-        <button type="submit">Submit</button>
+        <button type="submit" className="submit-button">
+          SEND
+        </button>
       </form>
     </div>
   );

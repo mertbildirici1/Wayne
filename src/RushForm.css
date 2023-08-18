@@ -1,0 +1,53 @@
+/* EmailForm.css */
+
+.email-form-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .email-form-heading {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .email-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .email-label {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+    text-align: left;
+  }
+  
+  .email-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 14px;
+  }
+  
+  .submit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -62,5 +62,141 @@
     "class": "Sophomore",
     "major": "Computer Science",
     "image": "headshot.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "Jacob",
+    "lastName": "Steiner",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 10,
+    "firstName": "Sammy",
+    "lastName": "Marks",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 11,
+    "firstName": "Ben",
+    "lastName": "Verlander",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 12,
+    "firstName": "David",
+    "lastName": "Cohen",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 13,
+    "firstName": "Zach",
+    "lastName": "Calpey",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 14,
+    "firstName": "Matthew",
+    "lastName": "Koh",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 15,
+    "firstName": "Dhruv",
+    "lastName": "Bindra",
+    "class": "Junior",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 16,
+    "firstName": "Trey",
+    "lastName": "Fitzpatrick",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 17,
+    "firstName": "Edwin",
+    "lastName": "Maore",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 18,
+    "firstName": "Ethan",
+    "lastName": "Rheude",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 19,
+    "firstName": "Isaac",
+    "lastName": "Singer",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 20,
+    "firstName": "Braedin",
+    "lastName": "Tabler",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 21,
+    "firstName": "Elliott",
+    "lastName": "Beamer",
+    "class": "Sophomore",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 22,
+    "firstName": "Alp",
+    "lastName": "Altinbasak",
+    "class": "Junior",
+    "major": "Mechanical Engineering + Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 23,
+    "firstName": "Robert",
+    "lastName": "Kaptur",
+    "class": "Junior",
+    "major": "Biology",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 24,
+    "firstName": "Max",
+    "lastName": "Holsman",
+    "class": "Senior",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
+  },
+  {
+    "id": 25,
+    "firstName": "Neelan",
+    "lastName": "Kumar",
+    "class": "Senior",
+    "major": "Computer Science",
+    "image": "headshot.jpg"
   }
 ]

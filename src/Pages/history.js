@@ -1,8 +1,10 @@
 import React from "react";
+import "../../src/history.css"
 
 export function History() {
   return (
-    <div>
+    <div className="history-container">
+      <div className="history-text">
       <p>
         The Wayne Manor (WM) is an all-male selective living group (SLG) at Duke
         University in Durham, North Carolina. The organization is known
@@ -45,6 +47,7 @@ export function History() {
         Assault Prevention and Education (SHAPE) and Duke Sexual Assault
         Prevention Team (SAPT).
       </p>
+    </div>
     </div>
   );
 }
